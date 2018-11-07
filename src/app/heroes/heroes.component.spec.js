@@ -16,7 +16,7 @@ describe('HeroesComponent', function () {
         component = fixture.componentInstance;
         fixture.detectChanges();
     });
-    it('should create', function () {
+    it('should be created', function () {
         expect(component).toBeTruthy();
     });
 });
